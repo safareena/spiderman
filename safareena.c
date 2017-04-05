@@ -9,6 +9,7 @@ void main()
    scanf("%d",&b);
    sum=a+b;
    printf("the sum is ",sum);
+   mul
 } 
 
    
